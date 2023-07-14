@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Snookers-Club/static/css/main.76899bed.css",
+    "main.js": "/Snookers-Club/static/js/main.3d042632.js",
+    "static/js/787.2f89ed03.chunk.js": "/Snookers-Club/static/js/787.2f89ed03.chunk.js",
+    "static/media/backimage.jpg": "/Snookers-Club/static/media/backimage.12dfd571230efd8b46e3.jpg",
+    "static/media/news3.png": "/Snookers-Club/static/media/news3.6dbcbbfa7ce3ffc03716.png",
+    "static/media/news2.png": "/Snookers-Club/static/media/news2.f7905f1a1df94894c44e.png",
+    "static/media/news1.png": "/Snookers-Club/static/media/news1.9890952234c32fd67e80.png",
+    "static/media/snooker.jpeg": "/Snookers-Club/static/media/snooker.99a8f0045b6ab6673c45.jpeg",
+    "static/media/snooker-removebg-preview.png": "/Snookers-Club/static/media/snooker-removebg-preview.f1b90d08ffdf271a6904.png",
+    "index.html": "/Snookers-Club/index.html",
+    "main.76899bed.css.map": "/Snookers-Club/static/css/main.76899bed.css.map",
+    "main.3d042632.js.map": "/Snookers-Club/static/js/main.3d042632.js.map",
+    "787.2f89ed03.chunk.js.map": "/Snookers-Club/static/js/787.2f89ed03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76899bed.css",
+    "static/js/main.3d042632.js"
+  ]
+}
